@@ -1,5 +1,6 @@
 # iMOS
 Implementation of "A Foundation Model for General Moving Object Segmentation in Medical Images"  (accepted by **IEEE ISBI 2024**)
+
 [arXiv](https://arxiv.org/abs/2309.17264)
 
 # Dataset
